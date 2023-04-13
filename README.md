@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trish!
-- 👀 I’m interested in front-end design and development, nail art, sudoku, and yoga
-- 🌱 I’m currently learning react development
+- 👀 I’m interested in web design and development, Guardian Tales, and the great outdoors!
+- 🌱 I’m currently learning Laravel development and Wordpress.
 - 📫 How to reach me - vilodye@gmail.com
 
 <!---
